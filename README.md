@@ -1,2 +1,5 @@
-# CTI110_P4HW1_LocksTerrell
-CTI110
+# CTI 110 repository
+Created for P4HW1
+Locks
+November 21, 2023
+
